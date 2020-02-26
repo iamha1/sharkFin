@@ -4,7 +4,7 @@
 
 ## Demonstration
 ![sharkFin](img/sharkFin.jpg)
-![sharkFin](img`/sharkFin.gif)
+![sharkFin](img/sharkFin.gif)
 
 Installation
 Installation not needed.
