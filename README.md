@@ -3,7 +3,8 @@
 - The user can then add the specific stock and choose the amount of shares to add to their portfolio. The portfolio will then total up the value of your stock with the amount of shares of each stock and then add those up for a total value of portfolio. Percentage is also provided compared to starting fund.
 
 ## Demonstration
-https://mattmarnien.github.io/sharkFin/
+![sharkFin](img/sharkFin.jpg)
+![sharkFin](img`/sharkFin.gif)
 
 Installation
 Installation not needed.
@@ -17,14 +18,15 @@ Installation not needed.
 We want to enable a cryptocurrency page for the application that allows you to add crypto to portfolio and play with that as well.
 
 ## Features
-Materialize CSS/JS: https://materializecss.com/ 
-Charts.Js: https://www.chartjs.org/
-Alpha Advantage API: https://rapidapi.com/user/alphavantage
-Financial Modeling Prep API: https://financialmodelingprep.com/developer/docs/
-New York Times API: https://developer.nytimes.com/
+- Materialize CSS/JS: https://materializecss.com/ 
+- Charts.Js: https://www.chartjs.org/
+- Alpha Advantage API: https://rapidapi.com/user/alphavantage
+- Financial Modeling Prep API: https://financialmodelingprep.com/developer/docs/
+- New York Times API: https://developer.nytimes.com/
 
 ## Authors: 
-Matt Marnien
-Vadim Buryakovsky
-Ha Nguyen
-Long Nguyen
+![our group](img/Group.jpg)
+- Matt Marnien
+- Vadim Buryakovsky
+- Ha Nguyen
+- Long Nguyen
