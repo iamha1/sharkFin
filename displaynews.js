@@ -67,9 +67,5 @@ function updatePage(NYTData) {
 
         // Append the article
         stockNews.append(stockNews);
-    
-
     }
 }
-
-
